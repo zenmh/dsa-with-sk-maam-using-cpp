@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {
-      int n = 4, i = 1;
+      int n = 10, i = 2;
 
-      cout << (4 << i) << endl;
+      cout << (n << i) << endl;
 
       return 0;
 }

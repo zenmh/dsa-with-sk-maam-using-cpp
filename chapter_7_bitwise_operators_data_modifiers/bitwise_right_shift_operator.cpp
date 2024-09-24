@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-      int n = 8, i = 2;
+      int n = 10, i = 2;
 
       cout << (n >> i) << endl;
 
